@@ -1,1 +1,23 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
 
+# WhatsApp Session - DO NOT UPLOAD THIS
+session/
+auth_info_baileys/
+*.json
+
+# Env Variables - Keep your keys secret
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temp files from downloads
