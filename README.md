@@ -15,7 +15,7 @@
 </div>
 
 ### ⚡ ABOUT DENOO_XD
-Bot ya kisasa ya WhatsApp/Telegram iliyojengwa na **DENOO_XD**. Kali, nyepesi, multi-device, na ina features zaidi ya 100+. 
+NEW MODERN BOT WhatsApp/Telegram iliyojengwa na **DENOO_XD**. Kali, nyepesi, multi-device, na ina features zaidi ya 100+. 
 Imeandikwa kwa Node.js + Baileys. No lag, no stress.
 
 ### 🔥 FEATURES
